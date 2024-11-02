@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+}
+#navbar-petjoy {
+    background-color: #FF671B !important;
+    color: aliceblue !important;
+}
+.c-white {
+    color: #fff !important;
+}
+.b-white {
+    border: 1px solid white !important;
+}
+
+.card-init{
+    border: none;
+    margin: 20px;
+    color: #595959;
+}
+.ml-green{
+    border-left: 5px solid #5AA469;
+    padding-left: 10px;
+}
+.app{
+    background-color: #FF671B !important;
+    color: white;
+}
